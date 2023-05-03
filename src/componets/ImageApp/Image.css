@@ -1,0 +1,20 @@
+.imagedata img{
+    border-radius: 12px;
+
+}
+.imagedata img:hover{
+transform: 5s;
+transition-duration: 1s;
+transform: translate(0px,0px) rotate(0deg) scale(1.085) ;
+transition: 500ms;}
+
+.imagedata p{
+    font-size: 8px;
+    font-family:'Times New Roman', Times, serif;
+    color:red;
+}
+.mainimage{
+    background-color:rgba(153, 205, 50, 0.04);
+    height: 65vh;
+
+}

@@ -1,0 +1,18 @@
+.emoji{
+    cursor: pointer;
+    display: flex;
+    
+    flex-direction: column;
+  
+
+}
+.mainemoji{
+    background-color: rgba(0, 0, 0, 0.76);
+   
+}
+.mainemojipic{
+    display: flex !important;
+
+}
+.row {
+    --bs-gutter-x: 0rem;}
